@@ -15,6 +15,7 @@ Ajout d’une section pour améliorer la documentation du projet.
 
 
 Ligne commit 1
+Ligne commit 2
 
 
 ## Auteur
