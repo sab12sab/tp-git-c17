@@ -1,0 +1,348 @@
+PS C:\Users\essad\Desktop\tp-git> git show bd0325b
+commit bd0325bcc8e38c727dc0c78e3f814642b2f1dd85
+Author: sab12sab <s.essadeq@mundiapolis.ma>
+Date:   Thu Feb 26 20:16:40 2026 +0000
+
+    C06 - commit 1
+
+diff --git a/README.md b/README.md
+index eec978f..ab3721e 100644
+--- a/README.md
++++ b/README.md
+@@ -14,5 +14,8 @@ Préparer l’environnement Git/VS Code et initialiser un repo local.
+ Ajout d’une section pour améliorer la documentation du projet.
+commit bd0325bcc8e38c727dc0c78e3f814642b2f1dd85
+Author: sab12sab <s.essadeq@mundiapolis.ma>
+Date:   Thu Feb 26 20:16:40 2026 +0000
+
+    C06 - commit 1
+
+diff --git a/README.md b/README.md
+index eec978f..ab3721e 100644
+--- a/README.md
++++ b/README.md
+@@ -14,5 +14,8 @@ Préparer l’environnement Git/VS Code et initialiser un repo local.
+ Ajout d’une section pour améliorer la documentation du projet.
+
+:...skipping...
+commit bd0325bcc8e38c727dc0c78e3f814642b2f1dd85
+Author: sab12sab <s.essadeq@mundiapolis.ma>
+Date:   Thu Feb 26 20:16:40 2026 +0000
+
+    C06 - commit 1
+
+diff --git a/README.md b/README.md
+index eec978f..ab3721e 100644
+--- a/README.md
++++ b/README.md
+@@ -14,5 +14,8 @@ Préparer l’environnement Git/VS Code et initialiser un repo local.
+ Ajout d’une section pour améliorer la documentation du projet.
+
+
+:...skipping...
+commit bd0325bcc8e38c727dc0c78e3f814642b2f1dd85
+Author: sab12sab <s.essadeq@mundiapolis.ma>
+Date:   Thu Feb 26 20:16:40 2026 +0000
+
+    C06 - commit 1
+
+diff --git a/README.md b/README.md
+index eec978f..ab3721e 100644
+--- a/README.md
++++ b/README.md
+@@ -14,5 +14,8 @@ Préparer l’environnement Git/VS Code et initialiser un repo local.
+ Ajout d’une section pour améliorer la documentation du projet.
+
+
++Ligne commit 1
+:...skipping...
+commit bd0325bcc8e38c727dc0c78e3f814642b2f1dd85
+Author: sab12sab <s.essadeq@mundiapolis.ma>
+Date:   Thu Feb 26 20:16:40 2026 +0000
+
+    C06 - commit 1
+
+diff --git a/README.md b/README.md
+index eec978f..ab3721e 100644
+--- a/README.md
++++ b/README.md
+@@ -14,5 +14,8 @@ Préparer l’environnement Git/VS Code et initialiser un repo local.
+ Ajout d’une section pour améliorer la documentation du projet.
+
+
++Ligne commit 1
++
+:...skipping...
+commit bd0325bcc8e38c727dc0c78e3f814642b2f1dd85
+Author: sab12sab <s.essadeq@mundiapolis.ma>
+Date:   Thu Feb 26 20:16:40 2026 +0000
+
+    C06 - commit 1
+
+diff --git a/README.md b/README.md
+index eec978f..ab3721e 100644
+--- a/README.md
++++ b/README.md
+@@ -14,5 +14,8 @@ Préparer l’environnement Git/VS Code et initialiser un repo local.
+ Ajout d’une section pour améliorer la documentation du projet.
+
+
++Ligne commit 1
++
++
+:...skipping...
+commit bd0325bcc8e38c727dc0c78e3f814642b2f1dd85
+Author: sab12sab <s.essadeq@mundiapolis.ma>
+Date:   Thu Feb 26 20:16:40 2026 +0000
+
+    C06 - commit 1
+
+diff --git a/README.md b/README.md
+index eec978f..ab3721e 100644
+--- a/README.md
++++ b/README.md
+@@ -14,5 +14,8 @@ Préparer l’environnement Git/VS Code et initialiser un repo local.
+ Ajout d’une section pour améliorer la documentation du projet.
+
+
++Ligne commit 1
++
++
+ ## Auteur
+:...skipping...
+commit bd0325bcc8e38c727dc0c78e3f814642b2f1dd85
+Author: sab12sab <s.essadeq@mundiapolis.ma>
+Date:   Thu Feb 26 20:16:40 2026 +0000
+
+    C06 - commit 1
+
+diff --git a/README.md b/README.md
+index eec978f..ab3721e 100644
+--- a/README.md
++++ b/README.md
+@@ -14,5 +14,8 @@ Préparer l’environnement Git/VS Code et initialiser un repo local.
+ Ajout d’une section pour améliorer la documentation du projet.
+
+
++Ligne commit 1
++
++
+ ## Auteur
+ Sabrine essadeq
+:...skipping...
+commit bd0325bcc8e38c727dc0c78e3f814642b2f1dd85
+Author: sab12sab <s.essadeq@mundiapolis.ma>
+Date:   Thu Feb 26 20:16:40 2026 +0000
+
+    C06 - commit 1
+
+diff --git a/README.md b/README.md
+index eec978f..ab3721e 100644
+--- a/README.md
++++ b/README.md
+@@ -14,5 +14,8 @@ Préparer l’environnement Git/VS Code et initialiser un repo local.
+ Ajout d’une section pour améliorer la documentation du projet.
+
+
++Ligne commit 1
++
++
+ ## Auteur
+ Sabrine essadeq
+~
+(END)...skipping...
+commit bd0325bcc8e38c727dc0c78e3f814642b2f1dd85
+Author: sab12sab <s.essadeq@mundiapolis.ma>
+Date:   Thu Feb 26 20:16:40 2026 +0000
+
+    C06 - commit 1
+
+diff --git a/README.md b/README.md
+index eec978f..ab3721e 100644
+--- a/README.md
++++ b/README.md
+@@ -14,5 +14,8 @@ Préparer l’environnement Git/VS Code et initialiser un repo local.
+ Ajout d’une section pour améliorer la documentation du projet.
+
+
++Ligne commit 1
++
++
+ ## Auteur
+ Sabrine essadeq
+~
+~
+(END)...skipping...
+commit bd0325bcc8e38c727dc0c78e3f814642b2f1dd85
+Author: sab12sab <s.essadeq@mundiapolis.ma>
+Date:   Thu Feb 26 20:16:40 2026 +0000
+
+    C06 - commit 1
+
+diff --git a/README.md b/README.md
+index eec978f..ab3721e 100644
+--- a/README.md
++++ b/README.md
+@@ -14,5 +14,8 @@ Préparer l’environnement Git/VS Code et initialiser un repo local.
+ Ajout d’une section pour améliorer la documentation du projet.
+
+
++Ligne commit 1
++
++
+ ## Auteur
+ Sabrine essadeq
+~
+~
+~
+(END)...skipping...
+commit bd0325bcc8e38c727dc0c78e3f814642b2f1dd85
+Author: sab12sab <s.essadeq@mundiapolis.ma>
+Date:   Thu Feb 26 20:16:40 2026 +0000
+
+    C06 - commit 1
+
+diff --git a/README.md b/README.md
+index eec978f..ab3721e 100644
+--- a/README.md
++++ b/README.md
+@@ -14,5 +14,8 @@ Préparer l’environnement Git/VS Code et initialiser un repo local.
+ Ajout d’une section pour améliorer la documentation du projet.
+
+
++Ligne commit 1
++
++
+ ## Auteur
+ Sabrine essadeq
+~
+commit bd0325bcc8e38c727dc0c78e3f814642b2f1dd85
+Author: sab12sab <s.essadeq@mundiapolis.ma>
+Date:   Thu Feb 26 20:16:40 2026 +0000
+
+    C06 - commit 1
+
+diff --git a/README.md b/README.md
+index eec978f..ab3721e 100644
+--- a/README.md
++++ b/README.md
+@@ -14,5 +14,8 @@ Préparer l’environnement Git/VS Code et initialiser un repo local.
+ Ajout d’une section pour améliorer la documentation du projet.
+
+
++Ligne commit 1
++
++
+ ## Auteur
+ Sabrine essadeq
+~
+~
+~
+commit bd0325bcc8e38c727dc0c78e3f814642b2f1dd85
+Author: sab12sab <s.essadeq@mundiapolis.ma>
+Date:   Thu Feb 26 20:16:40 2026 +0000
+
+    C06 - commit 1
+
+diff --git a/README.md b/README.md
+index eec978f..ab3721e 100644
+--- a/README.md
++++ b/README.md
+@@ -14,5 +14,8 @@ Préparer l’environnement Git/VS Code et initialiser un repo local.
+ Ajout d’une section pour améliorer la documentation du projet.
+
+
++Ligne commit 1
++
++
+ ## Auteur
+ Sabrine essadeq
+~
+~
+~
+~
+~
+commit bd0325bcc8e38c727dc0c78e3f814642b2f1dd85
+Author: sab12sab <s.essadeq@mundiapolis.ma>
+Date:   Thu Feb 26 20:16:40 2026 +0000
+
+    C06 - commit 1
+
+diff --git a/README.md b/README.md
+index eec978f..ab3721e 100644
+--- a/README.md
++++ b/README.md
+@@ -14,5 +14,8 @@ Préparer l’environnement Git/VS Code et initialiser un repo local.
+ Ajout d’une section pour améliorer la documentation du projet.
+
+
++Ligne commit 1
++
++
+ ## Auteur
+ Sabrine essadeq
+~
+~
+~
+~
+~
+~
+~
+(END)...skipping...
+commit bd0325bcc8e38c727dc0c78e3f814642b2f1dd85
+Author: sab12sab <s.essadeq@mundiapolis.ma>
+Date:   Thu Feb 26 20:16:40 2026 +0000
+
+    C06 - commit 1
+
+diff --git a/README.md b/README.md
+index eec978f..ab3721e 100644
+--- a/README.md
++++ b/README.md
+@@ -14,5 +14,8 @@ Préparer l’environnement Git/VS Code et initialiser un repo local.
+ Ajout d’une section pour améliorer la documentation du projet.
+
+
++Ligne commit 1
++
++
+ ## Auteur
+ Sabrine essadeq
+~
+~
+~
+~
+~
+~
+~
+~
+(END)...skipping...
+commit bd0325bcc8e38c727dc0c78e3f814642b2f1dd85
+Author: sab12sab <s.essadeq@mundiapolis.ma>
+Date:   Thu Feb 26 20:16:40 2026 +0000
+
+    C06 - commit 1
+
+diff --git a/README.md b/README.md
+index eec978f..ab3721e 100644
+--- a/README.md
++++ b/README.md
+@@ -14,5 +14,8 @@ Préparer l’environnement Git/VS Code et initialiser un repo local.
+ Ajout d’une section pour améliorer la documentation du projet.
+
+
++Ligne commit 1
++
++
+ ## Auteur
+ Sabrine essadeq
+~
+~
+~
+~
+~
+~
+~
+~
+~
+(END)
