@@ -8,3 +8,9 @@ function calculateTotal(price, taxRate) {
 }
 
 module.exports = { calculateTotal };
+
+function analyzeData(data) {
+    return `Analyse de: ${data}`;
+}
+
+console.log(analyzeData("C20"));
