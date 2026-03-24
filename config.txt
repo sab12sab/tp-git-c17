@@ -1,0 +1,8 @@
+Git Configuration
+
+user.name = sab12sab
+user.email = s.essadeq@mundiapolis.ma
+
+Configuration réalisée avec la commande :
+git config --global user.name
+git config --global user.email
