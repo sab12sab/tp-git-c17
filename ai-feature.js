@@ -10,7 +10,7 @@ function calculateTotal(price, taxRate) {
 module.exports = { calculateTotal };
 
 function analyzeData(data) {
-    return data.toUppercase(); // ❌ BUG volontaire
+    return data.toUpperCase(); // ✅ FIX
 }
 
 console.log(analyzeData("C20"));
